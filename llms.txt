@@ -1,0 +1,74 @@
+# Can Yesilyurt
+
+> Can Yesilyurt is a Software Engineer and Backend Architect based in Türkiye, building scalable APIs, backend systems and automation with Node.js and TypeScript.
+
+Website: [Can Yesilyurt](https://canyesilyurt.com/)
+
+## About
+
+Hello! I'm Can, a Software Engineer and Backend Architect based in Türkiye.
+
+I specialize in designing and implementing high-performance backend architectures, scalable API platforms, and complex automation workflows. Working extensively with Node.js, TypeScript, and modern containerized environments, I build systems engineered for real-world load and seamless integration.
+
+Driven by a deep interest in reverse engineering, AI workflows, and system optimization, I focus on dissecting complex codebases. Whether I'm developing custom memory manipulation tools, automated data pipelines, or enterprise API marketplaces, my goal is to make systems faster, more resilient, and highly efficient.
+
+Rather than just writing software, I engineer robust infrastructure that bridges technical complexity with strategic product value, always keeping an eye on minimalist, performance-first design.
+
+## Technical Expertise
+
+- Node.js
+- TypeScript
+- JavaScript
+- PHP
+- Express.js
+- MongoDB
+
+## Projects and Journey
+
+### October 2026 — 🟢 BOT4U – Kick Streaming & Community Tools
+
+Developed BOT4U, a platform for Kick streamers that brings chat management and viewer engagement into one dashboard. Built moderation tools, custom commands, loyalty points and levels, giveaways, and interactive OBS widgets. Integrated real-time alerts, text-to-speech, emoji effects, and subathon timers, with Turkish and English language support.
+
+### August 2025 - June 2026 — 🔌 APIWAY – Exclusive API Solutions
+
+APIWAY — A dedicated platform that brings together all API solutions developed by our company, designed for developers and businesses seeking reliability and performance. No third-party vendors — only high-performance, thoroughly tested APIs created by our own team. Users can choose a plan that suits their needs and start using it instantly. With secure payments, detailed usage analytics, and a scalable architecture, APIWAY delivers a premium API experience.
+
+### July 2023 — 🚀 Founded cy4udev
+
+Founded cy4udev to deliver freelance software development, with a focus on backend systems, API platforms, and automation workflows.
+
+### August 2021 — 💼 Founder & Backend Developer at Eventteyiz
+
+Founded Eventteyiz and developed its backend to help people discover events and places to visit. The project has since ended.
+
+### July 2021 — 💼 Backend Developer at GopCity
+
+Collaborate with GopCity as a backend developer on joint software projects.
+
+### January 2020 — 🚀 Founded CyAjans
+
+Founded CyAjans, my first freelance development business, to deliver client projects under my own brand. The business operated until 2021.
+
+### July 2014 — 🏁 Launched my first website
+
+Built and published my first personal website, marking the start of my web development journey.
+
+## Contact
+
+- [Email: hello@canyesilyurt.com](mailto:hello@canyesilyurt.com)
+
+## Personal Profiles
+
+- [GitHub](https://github.com/cy4udev)
+- [LinkedIn](https://www.linkedin.com/in/canyesilyurt/)
+- [X](https://x.com/shcansh)
+- [YouTube](https://www.youtube.com/@janyesilyurt)
+
+## cy4udev
+
+I founded cy4udev in July 2023 and carry out my freelance development work under this business name.
+
+- [cy4udev website](https://cy4u.dev)
+- [cy4udev on LinkedIn](https://www.linkedin.com/company/cy4udev/)
+- [cy4udev on Telegram](https://t.me/cy4udev)
+- [cy4udev on YouTube](https://www.youtube.com/@cy4udev)
