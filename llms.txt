@@ -23,7 +23,7 @@ Rather than just writing software, I engineer robust infrastructure that bridges
 - Express.js
 - MongoDB
 
-## Projects and Journey
+## Experience
 
 ### October 2026 — 🟢 BOT4U – Kick Streaming & Community Tools
 
